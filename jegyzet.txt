@@ -1,0 +1,40 @@
+API
+
+cd api
+sin api
+adatbázis javítása
+npm i 
+npm start --> ezt mind cmd-ben mert powershellben nem fut le.
+
+WEB
+
+cd web
+sin init
+npm i
+npm start
+
+
+function () => {} --> lambda kifejezés!!
+
+const state = {
+    employeeList: []
+}
+state.employeeList = result
+console.log(state.employeeList)
+
+<table>
+        <thead>
+          <tr>
+            <th>Id</th>
+            <th>Név</th>
+            <th>Település</th>
+            <th>Fizetés</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>

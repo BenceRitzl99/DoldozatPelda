@@ -1,0 +1,34 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Strong Steven",
+      "city": "Szeged",
+      "salary": 395
+    },
+    {
+      "id": 2,
+      "name": "Habos Ernő",
+      "city": "Budapest",
+      "salary": 300
+    },
+    {
+      "id": 3,
+      "name": "Kulik János",
+      "city": "Szolnok",
+      "salary": 354
+    },
+    {
+      "id": 4,
+      "name": "Weak James",
+      "city": "California",
+      "salary": 462
+    },
+    {
+      "id": 5,
+      "name": "Lan Lajos",
+      "city": "Debrecen",
+      "salary": 397
+    }
+  ]
+}
